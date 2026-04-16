@@ -34,7 +34,7 @@ Next.js · React · Node.js · Supabase · PostgreSQL · TailwindCSS
 ## 🔗 Projects
 
 - LaunchTrack → https://github.com/psysush10/launchtrack
-- Implementation Intelligence Engine → https://github.com/psysush10/implementation-intelligence-engine
+- AI Implementation Copilot → https://github.com/psysush10/implementation-intelligence-engine
 - Notify Engine → https://github.com/psysush10/notify-engine  
 - Dashboard → https://github.com/psysush10/launchtrack-dashboard  
 
