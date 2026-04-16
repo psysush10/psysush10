@@ -4,7 +4,7 @@ I build systems that improve customer onboarding and implementation delivery.
 
 ## 🚀 What I’m working on
 
-### 🧠 Implementation Intelligence Engine
+### 🧠 AI Implementation Copilot
 AI-powered system that converts messy project updates into actionable insights:
 - Detects risks in real-time
 - Identifies scope creep
