@@ -18,26 +18,7 @@ Covers product listing, cart logic, and checkout flow
 
 👉 Demo Video: https://www.loom.com/share/c55ec759e2c44e4da1f7d75c4c950204
 
-### 🧠 AI Implementation Copilot
-AI-powered system that converts messy project updates into actionable insights:
-- Detects risks in real-time
-- Identifies scope creep
-- Generates stakeholder-ready summaries
-
-## ⚙️ Core Focus
-- Implementation systems
-- Delivery intelligence
-- AI-powered workflows
-
-## 💡 Recent Work
-- Built LaunchTrack (multi-tenant onboarding & delivery system)
-- Designed AI layer for implementation intelligence
-
-## 🎯 What I’m exploring
-- AI-native systems for customer operations
-- Forward Deployed Engineering roles
-
---- 
+---
 
 ## 🛠 Tech Stack
 
