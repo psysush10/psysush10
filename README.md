@@ -34,6 +34,7 @@ Previously worked at Zoho, where I handled SaaS implementations and API-driven s
 
 ## 🔗 Projects
 
+- DoughCo → https://github.com/psysush10/doughco-frontend
 - LaunchTrack → https://github.com/psysush10/launchtrack
 - AI Implementation Copilot → https://github.com/psysush10/implementation-intelligence-engine
 - Notify Engine → https://github.com/psysush10/notify-engine  
@@ -43,4 +44,5 @@ Previously worked at Zoho, where I handled SaaS implementations and API-driven s
 
 ## 📫 Connect
 Email: sushanthravi94@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/sushanth-ravi-933b0b151/
