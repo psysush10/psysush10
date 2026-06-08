@@ -1,48 +1,26 @@
-# Hi, I'm Sushanth 👋
+# Hi, I’m Sushanth 👋
 
-Frontend / Full Stack Developer focused on building real-world web applications using React and API integrations.
+Technical Account Manager turned builder, focused on enterprise SaaS implementations, workflow automation, AI-assisted systems, and full-stack web applications.
 
 ## 🚀 What I’m working on
 
-* Building full-stack applications with React and backend APIs
-* Exploring scalable frontend architecture and performance
-* Actively looking for Frontend / Full Stack Developer roles
+• Building AI-assisted implementation and onboarding systems
+• Developing full-stack SaaS applications using React, Node.js, and APIs
+• Exploring developer productivity, workflow automation, and event-driven architectures
+• Actively exploring Technical Account Manager, Solutions Engineering, and Developer-Focused Customer Success opportunities
 
-### Featured Project
+## Featured Projects
 
-🛒 DoughCo – E-commerce Application
-Built using React + Laravel with Shopify API integration
-Covers product listing, cart logic, and checkout flow
+### 🤖 AI Implementation Copilot
+AI-powered implementation intelligence system for onboarding visibility, risk detection, and customer success workflows.
 
-👉 Live App: https://doughco-frontend.vercel.app/
-
-👉 Demo Video: https://www.loom.com/share/c55ec759e2c44e4da1f7d75c4c950204
-
----
+### 📊 LaunchTrack
+Multi-tenant implementation tracking platform designed to improve onboarding visibility, risk management, and stakeholder communication.
 
 ## 🛠 Tech Stack
 
-Next.js · React · Node.js · Supabase · PostgreSQL · TailwindCSS  · Laravel(PHP)  · MySQL  · Git
+React · Next.js · Node.js · Supabase · PostgreSQL · Laravel · MySQL · Git · REST APIs
 
----
+## 💼 Background
 
-### 💼 Background
-
-Previously worked at Zoho, where I handled SaaS implementations and API-driven systems, now transitioning into hands-on development roles.
-
----
-
-## 🔗 Projects
-
-- DoughCo → https://github.com/psysush10/doughco-frontend
-- LaunchTrack → https://github.com/psysush10/launchtrack
-- AI Implementation Copilot → https://github.com/psysush10/implementation-intelligence-engine
-- Notify Engine → https://github.com/psysush10/notify-engine  
-- Dashboard → https://github.com/psysush10/launchtrack-dashboard  
-
----
-
-## 📫 Connect
-Email: sushanthravi94@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/sushanth-ravi-933b0b151/
+8 years leading enterprise SaaS onboarding, implementation, integrations, and customer success initiatives at Zoho. Experienced in bridging customer requirements, technical systems, and product teams while building software solutions to solve operational problems.
